@@ -25,7 +25,7 @@ SECRET_KEY = '$-8a=d^ja565-lz27km&*==d@^(sr9ceous3@7m*3(k_ro+%@v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','<catherinart>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','catherinaart.pythonanywhere.com']
 
 
 # Application definition
